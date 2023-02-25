@@ -1,0 +1,14 @@
+#include<iostream.h>
+#include<conio.h>
+int main()
+{
+for(int i=1; i<=100; i++)
+{
+if(i%2==0)
+{
+cout<<i<<"\n";
+}
+}
+getch();
+return(0);
+}
